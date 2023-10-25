@@ -6,3 +6,4 @@ function solution(arr, k) {
 }
 
 
+g
